@@ -40,6 +40,13 @@ Each row in the dataset represents a different white wine sample from the Portug
 - Features are continuous and require normalization for optimal model performance.
 - Some features, such as alcohol and volatile acidity, are known to have a strong influence on perceived quality.
 
+## Project Outcomes
+
+- Developed and evaluated several machine learning models, with SVM achieving the best performance for quality prediction.
+- Achieved an accuracy of approximately 65% on the test set, outperforming baseline classifiers.
+- Identified alcohol content, volatile acidity, and sulphates as the most influential features for predicting wine quality.
+- Demonstrated the importance of data preprocessing, including normalization and feature selection, for improving model performance.
+- Provided visualizations and insights to help interpret model predictions and feature importance.
 
 ## Getting Started
 
